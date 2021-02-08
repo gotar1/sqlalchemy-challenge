@@ -1,6 +1,6 @@
 # SQLAlchemy - Surfs Up!
 
-![surfs-up.png](Images/surfs-up.png)
+![surfs-up.png](images/surfs-up.png)
 
 ## Background
 
